@@ -13,7 +13,7 @@ public class Main {
              BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
              Scanner scanner = new Scanner(System.in)) {
             while(true) {
-                // Legge due numeri dall'utente
+                // Legge due numeri dall'utente0
                 //System.out.print("ins: ");
                 //String val = scanner.nextLine();
 

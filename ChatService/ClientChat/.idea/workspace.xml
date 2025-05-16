@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d05f27b8-5974-435f-ac5a-e5236387984b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ClientChat/.idea/libraries/google_code_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClientChat/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClientChat/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClientChat/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClientChat/ClientChat.iml" afterDir="false" />
+    <list default="true" id="5c46135e-57ff-4267-95e1-1b815131ca24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_code_gson.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerChat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SenderThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/ServerChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/MessageRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/SenderThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../StudentStats/ClientStudent/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../StudentStats/ClientStudent/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../StudentStats/ClientStudent/.idea/modules.xml" afterDir="false" />
@@ -24,26 +24,19 @@
       <change afterPath="$PROJECT_DIR$/../../StudentStats/ServerStats/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../StudentStats/ServerStats/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../StudentStats/ServerStats/ServerStats.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClientChat/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientChat/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClientChat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientChat/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClientChat/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientChat/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerChat/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerChat/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerChat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerChat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerChat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerChat/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerChat/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Theater/Client/Clienttheater/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Theater/Client/Clienttheater/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -61,12 +54,9 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2veJBRyBqSblvIqII4cuRNutGlM" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2veJ8fkdaU6kAoowROpaluZRfgq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,8 +64,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.conf.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "ChatService",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/susa/IdeaProjects/DistributedAndPervasiveSystemCourse/ChatService/json-20240303.jar",
@@ -84,18 +79,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="conf" type="Application" factoryName="Application">
+    <configuration name="conf" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ServerChat" />
-      <option name="PROGRAM_PARAMETERS" value="12345" />
+      <module name="ClientChat" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 12345" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,13 +107,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d05f27b8-5974-435f-ac5a-e5236387984b" name="Changes" comment="" />
-      <created>1744499470939</created>
+      <changelist id="5c46135e-57ff-4267-95e1-1b815131ca24" name="Changes" comment="" />
+      <created>1744499449025</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744499470939</updated>
-      <workItem from="1744499471802" duration="1053000" />
-      <workItem from="1744567131049" duration="18107000" />
+      <updated>1744499449025</updated>
+      <workItem from="1744499449976" duration="3883000" />
+      <workItem from="1744567129495" duration="7232000" />
     </task>
     <servers />
   </component>
